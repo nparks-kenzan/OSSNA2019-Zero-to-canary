@@ -14,6 +14,10 @@ You need:
 - Is docker installed on your machine?
 
 
-## Downloads
+## Resources
 
-1.  Getting Started workbook [here](WKB-Spinnaker-Install-Capstan.pdf)
+1. Getting Started workbook [here](WKB-Spinnaker-Install-Capstan.pdf)
+1. Triggered Pipeline with PubSub [lesson](https://github.com/kenzanlabs/capstan/tree/master/pipelines/gcp/1-pubsubWpodscaling)
+1. Build a Canary Pipelien [lesson](https://github.com/kenzanlabs/capstan/tree/master/pipelines/gcp/2-canary)
+
+
