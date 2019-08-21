@@ -14,13 +14,6 @@ You need:
 - Is docker installed on your machine?
 
 
-## Structure
+## Downloads
 
-1. Introduction presentation [here](01_intro_ZeroToCanary.pdf)
-    1. Getting Started workbook [here](WKB-Spinnaker-Install-Capstan.pdf)
-    1. Review Results presentation [here]()
-1. Orchestration with Pipelines presentation [here](03_OrchestrateWithPipelines.pdf)
-    1. Hands on with Pipelines and Triggers lesson [here](https://github.com/kenzanlabs/capstan/tree/master/pipelines/gcp/1-pubsubWpodscaling)
-1. Canary and Observability presentation [here](04_CanaryLesson.pdf)
-    1. Canary lesson [here](https://github.com/kenzanlabs/capstan/tree/master/pipelines/gcp/2-canary)
-
+1.  Getting Started workbook [here](WKB-Spinnaker-Install-Capstan.pdf)
